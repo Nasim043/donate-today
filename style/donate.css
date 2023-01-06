@@ -155,7 +155,7 @@ input {
   border: 0;
 }
 form {
-  display: inline;
+  display: flex;
 }
 input[type="email"] {
   padding: 14px 17px;
